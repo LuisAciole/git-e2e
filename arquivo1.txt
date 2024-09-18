@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 linha 1
 
 linha 2
+=======
+Linha 1 
+
+Linha 2
+
+Linha 3
+>>>>>>> 451bb292226aab71b136a1cd06657dc49a7858e3
